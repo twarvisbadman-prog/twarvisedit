@@ -1,0 +1,6 @@
+{
+  "name": "AuraGrade Studio",
+  "description": "Professional photo color grading and high-end portrait retouching studio with 3-way color wheels, tone curves, frequency separation, and real-time scopes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
